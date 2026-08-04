@@ -18,11 +18,11 @@
 ---
 
 ### 🛠️ Tools & Technologies
-Languages: Python, SQL (MySQL) 
-C++ ML & Statistics: Regression, Classification, Clustering, PCA, Ensemble Methods (Random Forest, Boosting), Feature Engineering, Hypothesis Testing ,statistical Modeling. 
-Cloud & Big Data: AWS (S3, Lambda, Glue, CloudWatch, EventBridge, Athena), Apache Spark · Databricks · boto3  
-Libraries, Frameworks & Visualisation: Pandas · NumPy · Scikit-learn · TensorFlow · D3.js · Three.js  
-Tools: Git, JIRA
+- Languages: Python, SQL (MySQL) 
+- C++ ML & Statistics: Regression, Classification, Clustering, PCA, Ensemble Methods (Random Forest, Boosting), Feature Engineering, Hypothesis Testing ,statistical Modeling. 
+- Cloud & Big Data: AWS (S3, Lambda, Glue, CloudWatch, EventBridge, Athena), Apache Spark · Databricks · boto3  
+- Libraries, Frameworks & Visualisation: Pandas · NumPy · Scikit-learn · TensorFlow · D3.js · Three.js  
+- Tools: Git, JIRA
 
 ---
 
