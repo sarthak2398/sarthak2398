@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak </h1>
+<h1 align="center">Hi, I'm Sarthak </h1>
 <h3 align="center">MS Data Science student @ University of Minnesota | Class of 2027</h3>
 
 ---
