@@ -4,38 +4,31 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Currently pursuing an **MS in Data Science** at the **University of Minnesota**, graduating **May 2027**
-- 🔭 Interested in the intersection of [ML / analytics / your niche — e.g. healthcare data, NLP, forecasting]
-- 🌱 Currently sharpening my skills in [a tool/technique you're learning]
-- 📝 I write about what I build — check out my [portfolio/blog link]
+-  Currently pursuing an **MS in Data Science** at the **University of Minnesota** (expected, May2027).
+-  Previously a Data Scientist (Member of Technical Staff) at Hexaview Technologies, where I led a team of 5 building a generative AI candidate-screening platform and refactored a major AWS ETL pipeline (30% faster)
+-  B.Tech in Computer Science from Guru Gobind Singh University, Delhi
+- Based in Minneapolis, MN
+- Research Paper: "A Machine Learning-Based Approach to Detect Credit Card Frauds" — Springer LNNS, Vol. 167
 
 ---
 
 ### 🚀 Currently Working On
-- 🔍 Actively looking for full-time **Data Science / Data Analyst / ML Engineer** roles for after graduation
-- 📊 Building out portfolio projects — see pinned repos below
-- [Anything else — coursework, a CPT/part-time role, a Kaggle competition, etc.]
+- Pursuing advanced Ml course from Andrew NG, Coursera.
 
 ---
 
 ### 🛠️ Tools & Technologies
-*(Starter list below — trim to what's actually true for you and add badges via [shields.io](https://shields.io) or [skillicons.dev](https://skillicons.dev) for a nicer visual)*
-
-**Languages:** Python · SQL · R
-**Libraries:** pandas · NumPy · scikit-learn · [PyTorch / TensorFlow]
-**Tools:** Git · Jupyter · [Tableau / Power BI] · [Docker]
-**Cloud/Data:** [AWS / Azure / GCP] · [Spark]
-
-```
-🔤 Python  🗄️ SQL  🐼 pandas  🤖 scikit-learn  📈 Tableau  🐙 Git
-```
+Languages: Python, SQL (MySQL) 
+C++ ML & Statistics: Regression, Classification, Clustering, PCA, Ensemble Methods (Random Forest, Boosting), Feature Engineering, Hypothesis Testing ,statistical Modeling. 
+Cloud & Big Data: AWS (S3, Lambda, Glue, CloudWatch, EventBridge, Athena), Apache Spark · Databricks · boto3  
+Libraries, Frameworks & Visualisation: Pandas · NumPy · Scikit-learn · TensorFlow · D3.js · Three.js  
+Tools: Git, JIRA
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sarthak-chandna-3215b3184/?skipRedirect=true))
+
 
 ---
 
